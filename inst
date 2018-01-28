@@ -8,13 +8,13 @@ clear
 # Pode ser executado automaticamente junto com a inicialização do sistema.
 
 # Instalação e mineração automática com o comando:
-# wget -O inst https://git.io/vNVFN && sh inst <carteira_btc_instalada_no_proxy>
+# wget -O inst https://git.io/vNDdR && sh inst <carteira_btc_instalada_no_proxy>
 
 bash=$(echo $BASH)
 
 if [ "$bash" = "/bin/bash" ]
 then
-exit 0
+exit 
 fi
 
 wallet=$1
