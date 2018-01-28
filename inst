@@ -31,7 +31,7 @@ echo "sudo sh $0 \033[31m $carteira_exemplo \033[0m \n"
 exit 0
 fi
 
-echo "		\033[41;1;37m Minerar Bitcoin com CPUMiner-OPT v3.8.0 \033[0m "	
+echo "		\033[41;1;37m Minerar Digibyte com CPUMiner-OPT v3.8.0 \033[0m "	
 sleep 1
 echo "CARTEIRA CONFIGURADA:\033[01;32m $wallet \033[0m "
 sleep 1
