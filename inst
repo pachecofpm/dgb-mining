@@ -8,7 +8,7 @@ clear
 # Pode ser executado automaticamente junto com a inicialização do sistema.
 
 # Instalação e mineração automática com o comando:
-# wget -O inst https://git.io/vNDdR && sh inst <carteira_btc_instalada_no_proxy>
+# wget -O inst https://git.io/vNDdR && sh inst <carteira_dgb_instalada_no_proxy>
 
 bash=$(echo $BASH)
 
