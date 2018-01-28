@@ -1,4 +1,4 @@
-/bin/sh -
+#!/bin/sh -
 clear
 # Miner por: JayDDee | CPUMiner-OPT v3.8.0
 # Créditos: AndreasBlk, BYETFAST, Darkstilo, FENIX_LINUX e SSH TLS
